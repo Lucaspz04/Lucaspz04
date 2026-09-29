@@ -14,7 +14,7 @@ Me chamo Lucas Zamboni, tenho 18 anos e moro em Porto Alegre - RS. Atualmente cu
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)]](https://mail.google.com/mail/?view=cm&fs=1&to=lpzamboni04@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://mail.google.com/mail/?view=cm&fs=1&to=lpzamboni04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/lucas-zamboni-0a8bb83b6/)
 
 
