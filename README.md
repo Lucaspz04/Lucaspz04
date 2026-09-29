@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Lucas Zamboni, tenho 18 anos e moro em Porto Alegre - RS. Atualmente curso Análise e Desenvolvimento de Sistemas na UniRitter.
+Olá!!! Me chamo Lucas Zamboni, tenho 18 anos e moro em Porto Alegre - RS. Atualmente curso Análise e Desenvolvimento de Sistemas na UniRitter.
  
 #
 
