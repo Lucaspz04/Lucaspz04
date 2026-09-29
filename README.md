@@ -6,7 +6,7 @@
 
 #
 
-Olá!!! Me chamo Lucas Zamboni, tenho 18 anos e moro em Porto Alegre - RS. Atualmente curso Análise e Desenvolvimento de Sistemas na UniRitter.
+Me chamo Lucas Zamboni, tenho 18 anos e moro em Porto Alegre - RS. Atualmente curso Análise e Desenvolvimento de Sistemas na UniRitter.
  
 #
 
@@ -104,7 +104,7 @@ Olá!!! Me chamo Lucas Zamboni, tenho 18 anos e moro em Porto Alegre - RS. Atual
 </p>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucaspz04/Lucaspz04/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucaspz04/Lucaspz04/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lucaspz04/Lucaspz04/output/github-contribution-grid-snake.svg">
 </picture>
