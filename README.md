@@ -10,7 +10,7 @@ Me chamo Lucas Zamboni, tenho 18 anos e moro em Porto Alegre - RS. Atualmente cu
  
 #
 
-<img align="right" alt="" height="190px" src="./src/grok_1788049723669.jpg">
+<img align="right" height="190px" alt="grok_1788049723669" src="https://github.com/user-attachments/assets/541599c0-ff78-43fe-ae11-38e42d2d0e4c" />
 
 <h3 align="left">Connect with me!</h3>
 
